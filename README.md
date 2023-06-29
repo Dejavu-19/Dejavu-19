@@ -10,4 +10,5 @@
 
 ![](https://streak-stats.demolab.com/?user=Dejavu-19)
 
-![](https://raw.githubusercontent.com/Dejavu-19/Dejavu-19/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Dejavu-19/githubSNK/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/Dejavu-19/gihubSNK/blob/output/github-contribution-grid-snake.svg)
